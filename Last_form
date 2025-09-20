@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h1>HTML Forms</h1>
 
-<form action="/action_page.php">
+<form>
   <label for="fname">First name:</label><br>
   <label for="lname">Last name:</label><br>
   <input type="radio" id="css" name="fav_language" value="CSS"><br>
